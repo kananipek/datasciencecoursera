@@ -3,4 +3,3 @@ This is another comment line
 I see
 I thought I erased this file
 It's me again
-This is after trying checkout file to see which version will be saved
